@@ -6,6 +6,8 @@ In this workshop, we will start by introducing the three "Languages of the Web"-
 
 While this will be an introduction, it will set you up to continue learning and growing in these skills.
 
+**Slides:** [https://docs.google.com/presentation/d/1TL-2ZmoJ5_3nNKtu68Nc2kfHEuygksz-9s4cz3StfTE/edit?usp=sharing](https://docs.google.com/presentation/d/1TL-2ZmoJ5_3nNKtu68Nc2kfHEuygksz-9s4cz3StfTE/edit?usp=sharing)
+
 ## Homework (optional readings)
 
 * [https://www.w3schools.com/whatis/whatis_html.asp](https://www.w3schools.com/whatis/whatis_html.asp)

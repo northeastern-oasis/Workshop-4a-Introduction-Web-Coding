@@ -1,4 +1,4 @@
-# Intro to the Web Workshop: Your Food Blog!
+# Intro to Web Coding: Your Food Blog!
 
 **To get started, open this in Stackblitz**: [https://stackblitz.com/edit/oasis-workshop-3-website?file=README.md](https://stackblitz.com/edit/oasis-workshop-3-website?file=README.md)
 

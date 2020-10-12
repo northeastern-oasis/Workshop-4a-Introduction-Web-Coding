@@ -1,4 +1,4 @@
-# Intro to the Web Workshop: Intro
+# Intro to Web Coding: Intro
 
 This folder contains the files to get you started writing your web code. 
 

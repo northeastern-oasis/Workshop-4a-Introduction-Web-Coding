@@ -1,16 +1,12 @@
 # Intro to Web Coding: Your Food Blog!
 
-**To get started, open this in Stackblitz**: [https://stackblitz.com/edit/oasis-workshop-3-website?file=README.md](https://stackblitz.com/edit/oasis-workshop-3-website?file=README.md)
-
-*Make sure you press Fork in Stackblitz to copy the project!!*
-
-**If Stackblitz gives you trouble, you can also use Codepen** [https://codepen.io/](https://codepen.io/)
+**To get started, open this in Repl.it**: [https://repl.it/@chessmyers/NUWIT-Workshop-Intro-to-Web-Website](https://repl.it/@chessmyers/NUWIT-Workshop-Intro-to-Web-Website)
 
 In this folder, you will create your own interactive personal site! As you may have noticed, no starter files have been provided. It is up to you to create them and fill them in using your IDE
 
 **Hint: in most IDE's, such as VS Code, you can click on a folder (so in this case, the folder 'website') and you should get an option for "New File". In Stackblitz there is a "New File" button in the "Files" header
 
-You will want three files for this site: `index.html`, `styles.css`, and `index.js`. Note that while you generally should call the home page of your site `index.html` by convention, you can call your CSS and JavaScript files whatever you want.
+You will want three files for this site: `index.html`, `styles.css`, and `script.js`. Note that while you generally should call the home page of your site `index.html` by convention, you can call your CSS and JavaScript files whatever you want.
 
 This site will have various features:
 
@@ -27,7 +23,7 @@ This may not be the most attractive page on the web. But it will be your own, an
 
 ## Tips for Getting Started
 
-1. Start by making your three files: "index.html, style.css, and index.js"
+1. Start by making your three files: "index.html, style.css, and script.js"
 2. Start by writing the HTML
 3. **Feel free** (in fact, we encourage) you copy over contents from the files you already wrote OR the template.html file in the Github repo
 4. Add styling next--again, refer back to your past stylesheets and/or copy from them
